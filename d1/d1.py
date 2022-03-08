@@ -1,0 +1,125 @@
+import requests
+from fake_useragent import UserAgent
+ua = UserAgent()
+import helpers
+import time
+import random
+
+import pandas as pd
+import matplotlib as mpl
+import matplotlib.pyplot as plt
+
+
+#### wikidata sparql query
+url_wd = 'https://query.wikidata.org/bigdata/namespace/wdq/sparql'
+
+query_long = '''
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?pid ?pidLabel ?idSS ?namegLabel ?namesLabel 
+    WHERE {
+    ?pid wdt:P106 wd:Q15976092 .
+    ?pid wdt:P4012 ?idSS .
+    ?pid wdt:P735 ?nameg .
+    ?pid wdt:P734 ?names .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
+    }
+    # limit 10
+'''
+
+query = '''
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?pid ?pidLabel
+    WHERE {
+    ?pid wdt:P106 wd:Q15976092 .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
+    }
+    # limit 10
+'''
+
+data_wd = requests.get(url_wd, params={'query': query, 'format': 'json'}).json()
+
+researchers = []
+for item in data_wd['results']['bindings']:
+    researchers.append({
+        'id': item['pid']['value'],
+        # 'idSS': item['idSS']['value'],
+        'label': item['pidLabel']['value']        
+        })
+       
+
+df_wd = pd.DataFrame(researchers)
+df_wd['id'] = df_wd['id'].str.strip('http://www.wikidata.org/entity/')
+
+### fetch more details from wikidata
+fields_dict = {
+    'P69': 'alma',
+    'P101': 'field',
+    'P166': 'award'
+    }
+
+df_wd['alma'] = None
+df_wd['field'] = None
+df_wd['award'] = None
+
+for i, row in df_wd.iterrows():
+    for k, v in fields_dict.items():
+        query = f'''
+        PREFIX wikibase: <http://wikiba.se/ontology#>
+        PREFIX wd: <http://www.wikidata.org/entity/>
+        PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+        SELECT ?{v}Label 
+            WHERE {{
+            wd:{row['id']} wdt:{k} ?{v}
+          SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en" }}
+            }}
+        '''
+        
+        
+        header = {'User-Agent':str(ua.random)}
+        data_wd = requests.get(url_wd, params={'query': query, 'format': 'json'}, headers=header)
+        try:
+            resp_list = []
+            for item in data_wd.json()['results']['bindings']:
+                resp_list.append(item[v + 'Label']['value'])
+                
+            df_wd.loc[df_wd['id'] == row['id'], v] = str(resp_list)
+        
+        except:
+            print(data_wd.content)
+            print('error query:')
+            print(f'\t{query}\n')
+        
+        time.sleep(random.uniform(0.3,2.2))
+
+
+
+#### semantic scholar
+"""
+ssAPIkey = 'qZWKkOKyzP5g9fgjyMmBt1MN2NTC6aT61UklAiyw' # approved for 100 req/sec
+ssBASE = 'http://api.semanticscholar.org/graph/v1/author/'
+
+search_terms = 'Andrew Ng'
+ssENDPOINTsearch = 'search?' + \
+                   f'&query={search_terms}'
+                   
+headers = {'x-api-key': ssAPIkey}
+resp = requests.get(ssBASE + ssENDPOINTsearch, headers=headers)
+df_ss = pd.DataFrame(resp.json()['data'])    
+"""
+               
+print(len(df_wd))
+print(df_wd.head())
+df_wd['occupation'] = 'artificial intelligence researcher'
+
+df_wd[['alma', 'field', 'award']] = df_wd[['alma', 'field', 'award']].applymap(lambda x: x.strip('[]'))
+df_wd.to_csv('researchers.csv')

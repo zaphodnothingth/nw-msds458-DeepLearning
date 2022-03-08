@@ -1,0 +1,523 @@
+,id,label,alma,field,award,occupation
+0,Q75778,Joseph Weizenbaum,'Wayne State University','computer science',"'The VIZE 97 Prize', ""Commander's Cross of the Order of Merit of the Federal Republic of Germany"", 'Norbert Wiener Award for Social and Professional Responsibility'",artificial intelligence researcher
+1,Q92809,Rodney Brooks,"'Flinders University', 'Stanford University'",,"'AAAS Fellow', 'IJCAI Computers and Thought Award', 'ACM Fellow', 'AAAI Fellow', 'AAAS Fellow', 'Fellow of the Australian Academy of Science', 'Corresponding Member of the Australian Academy of Science'",artificial intelligence researcher
+2,Q108175,Thomas Wiegand,"'Hamburg University of Technology', 'University of Erlangen-Nuremberg'",,"'IEEE Fellow', 'IEEE Masaru Ibuka Consumer Electronics Award', 'Primetime Emmy Award', 'Forschungspreis Technische Kommunikation', 'Karl Heinz Beckurts Award', 'Q42433243'",artificial intelligence researcher
+3,Q204815,Marvin Minsky,"'Harvard University', 'Princeton University', 'Harvard College', 'The Bronx High School of Science', 'Phillips Academy', 'Ethical Culture Fieldston School'","'artificial intelligence', 'computer science', 'philosophy of mind', 'cognitive science'","'Turing Award', 'Benjamin Franklin Medal', 'Japan Prize', 'Dan David Prize', 'R. W. Wood Prize', 'Computer Pioneer Award', 'Harvard Society of Fellows', 'IJCAI Award for Research Excellence', 'BBVA Foundation Frontiers of Knowledge Award', 'doctor honoris causa', 'AAAI Fellow', 'honorary doctor of the Université libre de Bruxelles', 'Computer History Museum fellow', 'honorary doctorate of the Vrije Universiteit Brussel', 'Fellow of the Cognitive Science Society', 'Fellow of the Committee for Skeptical Inquiry'",artificial intelligence researcher
+4,Q92739,John McCarthy,"'Princeton University', 'California Institute of Technology', 'Belmont High School'",'artificial intelligence',"'Turing Award', 'Kyoto Prize', 'National Medal of Science', 'Benjamin Franklin Medal', 'Computer Pioneer Award', 'IJCAI Award for Research Excellence', 'Kyoto Prize in Advanced Technology', 'ACM Fellow', 'AAAI Fellow', 'Computer History Museum fellow', 'Programming Languages Achievement Award', 'Fellow of the Cognitive Science Society'",artificial intelligence researcher
+5,Q344775,David Levy,'Maastricht University',,,artificial intelligence researcher
+6,Q224372,I. J. Good,"'University of Cambridge', 'Jesus College', ""Haberdashers' Aske's Boys' School""","'cosmology', 'cryptography', 'statistics'","""Smith's Prize"", 'Computer Pioneer Award', 'Fellow of the American Statistical Association'",artificial intelligence researcher
+7,Q3123640,Ray Solomonoff,'Glenville High School',,,artificial intelligence researcher
+8,Q4145096,Vladimir Gorodetski,,'artificial intelligence',,artificial intelligence researcher
+9,Q92716,Bernhard Nebel,"'University of Hamburg', 'Saarland University'",,'AAAI Fellow',artificial intelligence researcher
+10,Q295012,John Searle,"'Christ Church', 'University of Wisconsin–Madison', 'Shorewood High School'","'philosophy of mind', 'philosophy of language'","'Jean Nicod Prize', 'Rhodes Scholarship', 'Guggenheim Fellowship', 'National Humanities Medal', 'Albertus-Magnus professorate', 'Jovellanos International Essay Award', 'AAAS Fellow'",artificial intelligence researcher
+11,Q92890,Richard Wallace,'Carnegie Mellon University','artificial intelligence',,artificial intelligence researcher
+12,Q92826,Terry Winograd,"'Massachusetts Institute of Technology', 'Colorado College'",'computer science',"'IJCAI Computers and Thought Award', 'ACM Fellow'",artificial intelligence researcher
+13,Q92699,Dieter Fox,'University of Bonn',,,artificial intelligence researcher
+14,Q92686,David H. D. Warren,'University of Edinburgh',,,artificial intelligence researcher
+15,Q92646,John Henry Holland,"'Massachusetts Institute of Technology', 'University of Michigan', 'University of Michigan College of Literature, Science, and the Arts'",,"'MacArthur Fellows Program', 'Harold Pender Award'",artificial intelligence researcher
+16,Q92965,Aravind Joshi,"'University of Pennsylvania', 'Indian Institute of Science'",'computational linguistics',"'IEEE Fellow', 'Benjamin Franklin Medal', 'Guggenheim Fellowship', 'Rumelhart Prize', 'IJCAI Award for Research Excellence', 'ACM Fellow', 'AAAI Fellow', 'Fellow of the Association for Computational Linguistics', 'Fellow of the Cognitive Science Society'",artificial intelligence researcher
+17,Q92837,Rollo Carpenter,,,,artificial intelligence researcher
+18,Q93119,Donald Michie,"'University of Oxford', 'Balliol College', 'Rugby School'",,"'Fellow of the British Computer Society', 'Fellow of the Royal Society of Edinburgh', 'IJCAI Award for Research Excellence'",artificial intelligence researcher
+19,Q1366729,Ronald C. Arkin,"'University of Massachusetts Amherst', 'University of Michigan'",,,artificial intelligence researcher
+20,Q3308376,Mike McMahon,,,,artificial intelligence researcher
+21,Q2469699,Richard Greenblatt,'Massachusetts Institute of Technology','computer programming',,artificial intelligence researcher
+22,Q3017519,David M. Blei,"'Brown University', 'University of California, Berkeley'","'machine learning', 'artificial intelligence', 'topic model'","'Guggenheim Fellowship', 'ACM Fellow', 'ACM Prize in Computing'",artificial intelligence researcher
+23,Q3308285,Michael I. Jordan,"'University of California, San Diego'","'machine learning', 'artificial intelligence'","'Rumelhart Prize', 'IJCAI Award for Research Excellence', 'ACM Fellow', 'AAAI Fellow', 'ACM - AAAI Allen Newell Award', 'Fellow of the Society for Industrial and Applied Mathematics', 'AAAS Fellow', 'Fellow of the Cognitive Science Society', 'Fellow of the American Statistical Association'",artificial intelligence researcher
+24,Q3571662,Yann LeCun,"'University of Toronto', 'Pierre and Marie Curie University', 'ESIEE Paris'","'artificial intelligence', 'computer science', 'deep learning'","'Turing Award', 'Harold Pender Award', 'AAAI Fellow', 'PAMI Distinguished Researcher Award', 'honorary doctor of the École polytechnique fédérale de Lausanne'",artificial intelligence researcher
+25,Q3656334,Stuart J. Russell,"'University of Oxford', 'Stanford University'",'artificial intelligence',"'IJCAI Computers and Thought Award', 'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+26,Q92862,Jaron Lanier,,'computer science',"""Peace Prize of the German Publishers' and Booksellers' Association"", 'Time 100'",artificial intelligence researcher
+27,Q93012,Jonathan Schaeffer,"'University of Toronto', 'University of Waterloo'",'artificial intelligence','AAAI Fellow',artificial intelligence researcher
+28,Q99613,Ernst Dickmanns,'RWTH Aachen University',,,artificial intelligence researcher
+29,Q676914,Earl Busby Hunt,'Stanford University',,"'AAAS Fellow', 'James McKeen Cattell Fellow Award', 'Fellow of the American Psychological Association', 'Fellow of the Association for Psychological Science'",artificial intelligence researcher
+30,Q704195,Eliezer Yudkowsky,,"'artificial intelligence', 'decision theory', 'transhumanism', 'friendly artificial intelligence'",,artificial intelligence researcher
+31,Q708003,Hans Moravec,"'Stanford University', 'Acadia University', 'Western University'",'robotics',,artificial intelligence researcher
+32,Q1900440,Mark Steedman,"'University of Edinburgh', 'University of Sussex'",'computational linguistics',"'Fellow of the Royal Society of Edinburgh', 'AAAI Fellow', 'Fellow of the British Academy', 'Fellow of the Association for Computational Linguistics', 'Fellow of the Cognitive Science Society'",artificial intelligence researcher
+33,Q3047095,Jaap van den Herik,"'Delft University of Technology', 'Vrije Universiteit Amsterdam'",,,artificial intelligence researcher
+34,Q4027185,Ben Goertzel,"'New York University', 'Temple University'",'artificial intelligence',,artificial intelligence researcher
+35,Q4484888,Victor Konstantinovich Finn,"'MSU Faculty of Mechanics and Mathematics', ""Moscow University's Department of Philosophy""",'artificial intelligence',,artificial intelligence researcher
+36,Q92834,David Waltz,'Massachusetts Institute of Technology',,"'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+37,Q218823,Joshua Lederberg,"'Columbia University', 'Yale University', 'University of Wisconsin–Madison', 'Stuyvesant High School'","'genetics', 'microbiology'","'Presidential Medal of Freedom', 'Nobel Prize in Physiology or Medicine', 'National Medal of Science', 'Maxwell Finland Award', 'William Procter Prize for Scientific Achievement', 'Foreign Member of the Royal Society', 'ACM Fellow', 'ACM - AAAI Allen Newell Award'",artificial intelligence researcher
+38,Q298341,Raymond Kurzweil,"'Massachusetts Institute of Technology', 'Martin Van Buren High School'","'speech synthesis', 'computer programming', 'optical character recognition', 'futures studies', 'speech recognition'","'Dickson Prize', 'Lemelson–MIT Prize', 'National Medal of Technology and Innovation', 'Dickson Prize in Science', 'National Inventors Hall of Fame', 'Grace Murray Hopper Award', 'ACM Fellow'",artificial intelligence researcher
+39,Q380459,Kevin Warwick,"'Imperial College London', 'Aston University', 'Lawrence Sheriff School'","'cybernetics', 'robotics'","'Golden Eurydice Award', 'Higginson Lecture', 'Mountbatten Medal', 'Fellow of the Institution of Engineering and Technology'",artificial intelligence researcher
+40,Q559334,Douglas B. Lenat,"'Stanford University', 'University of Pennsylvania'","'artificial intelligence', 'ontology', 'knowledge base'","'AAAS Fellow', 'IJCAI Computers and Thought Award', 'AAAI Fellow', 'Fellow of the Cognitive Science Society'",artificial intelligence researcher
+41,Q711172,W. Ross Ashby,'Sidney Sussex College','cybernetics','Guggenheim Fellowship',artificial intelligence researcher
+42,Q92832,Peter Norvig,"'Brown University', 'University of California, Berkeley'",'computer',"'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+43,Q1406499,Fernand Gobet,'University of Fribourg',,,artificial intelligence researcher
+44,Q2020117,Oliver Brock,"'Stanford University', 'Technical University of Berlin'","'machine learning', 'robotics'","'IEEE Fellow', 'Alexander von Humboldt Professorship'",artificial intelligence researcher
+45,Q2651957,Oliver Selfridge,"'Massachusetts Institute of Technology', 'Malvern College', 'Middlesex School'",,,artificial intelligence researcher
+46,Q3022141,Demis Hassabis,"'University of Cambridge', 'University College London', ""Queens' College""",,"'honorary degree', 'Time 100', 'Mullard Award', 'Commander of the Order of the British Empire', 'Fellow of the Royal Society of Arts', 'Fellow of the Royal Society', 'Fellow of the Royal Academy of Engineering', ""Nature's 10""",artificial intelligence researcher
+47,Q91233,Michael Kohlhase,'Saarland University','mathematics',,artificial intelligence researcher
+48,Q92824,Judea Pearl,"'New York University Tandon School of Engineering', 'University of California, Los Angeles', 'Technion – Israel Institute of Technology', 'Rutgers University'","'computer science', 'philosophy of science'","'IEEE Fellow', 'Turing Award', 'Benjamin Franklin Medal', 'Dickson Prize in Science', 'Lakatos Award', 'Harvey Prize', 'Rumelhart Prize', 'IJCAI Award for Research Excellence', 'ACM Fellow', 'AAAI Fellow', 'ACM - AAAI Allen Newell Award', 'AAAS Fellow', 'Honorary doctorate from University of Toronto', 'Fellow of the Cognitive Science Society', 'Fellow of the American Statistical Association'",artificial intelligence researcher
+49,Q92894,Geoffrey Hinton,'University of Edinburgh',"'machine learning', 'deep learning'","'Turing Award', 'Gerhard Herzberg Canada Gold Medal for Science and Engineering', 'Rumelhart Prize', 'IEEE Frank Rosenblatt Award', 'IJCAI Award for Research Excellence', 'BBVA Foundation Frontiers of Knowledge Award', 'Honda Prize', 'Companion of the Order of Canada', 'Fellow of the Royal Society', 'AAAI Fellow', 'Fellow of the Royal Society of Canada', 'Fellow of the Cognitive Science Society'",artificial intelligence researcher
+50,Q92896,Wolfram Burgard,"'University of Bonn', 'TU Dortmund'",,"'Gottfried Wilhelm Leibniz Prize', 'AAAI Fellow', 'EurAI Fellow'",artificial intelligence researcher
+51,Q92897,Wolfgang Bibel,'Ludwig Maximilian University of Munich',,"'Herbrand Award', 'AAAI Fellow', 'EurAI Fellow'",artificial intelligence researcher
+52,Q92993,Jeff Hawkins,"'Cornell University', 'University of California, Berkeley', 'Cornell University College of Engineering', 'Harborfields High School'",,,artificial intelligence researcher
+53,Q93151,Avinash Kak,'Indian Institute of Technology Delhi',,,artificial intelligence researcher
+54,Q93123,Steve Grand,,,'Officer of the Order of the British Empire',artificial intelligence researcher
+55,Q335027,Seymour Papert,"'University of Cambridge', 'University of Geneva', 'University of the Witwatersrand', ""St John's College""",'cognitive science',"'Marconi Prize', 'Guggenheim Fellowship'",artificial intelligence researcher
+56,Q822778,Bernard Widrow,'Massachusetts Institute of Technology','electrical engineering',"'Benjamin Franklin Medal', 'IEEE Alexander Graham Bell Medal', 'IEEE Centennial Medal'",artificial intelligence researcher
+57,Q2060461,Paul Jorion,'Université libre de Bruxelles',"'mathematics', 'epistemology', 'artificial intelligence', 'psychoanalysis', 'humanism', 'fishery', 'transhumanism', 'economic system', 'Q1369352', 'financial system', 'Q2108531', 'Posthumanism', 'mortgage-backed security trading'",,artificial intelligence researcher
+58,Q2090838,Luc Steels,'University of Antwerp','artificial intelligence',,artificial intelligence researcher
+59,Q4217810,Boris Katz,'Moscow State University',,,artificial intelligence researcher
+60,Q92778,J. C. R. Licklider,"'University of Rochester', 'Washington University in St.\xa0Louis'",'computer science','Internet Hall of Fame',artificial intelligence researcher
+61,Q92769,Scott E. Fahlman,'Massachusetts Institute of Technology','computer science','AAAI Fellow',artificial intelligence researcher
+62,Q92892,Chris McKinstry,,,,artificial intelligence researcher
+63,Q92916,Corinna Cortes,"'University of Rochester', 'Niels Bohr Institute'",,'Paris Kanellakis Award',artificial intelligence researcher
+64,Q92995,Wolfgang Wahlster,'University of Hamburg','artificial intelligence',"'Saarland Order of Merit', 'German Future Prize', ""Commander's Cross of the Order of Merit of the Federal Republic of Germany"", ""Officer's Cross of the Order of Merit of the Federal Republic of Germany"", 'AAAI Fellow', 'Golden Duck Award', 'Karl Heinz Beckurts Award', 'honorary doctor of Linköping University'",artificial intelligence researcher
+65,Q310798,Stephen Wolfram,"'University of Oxford', 'California Institute of Technology', 'Eton College', ""St John's College"", 'Dragon School'","'mathematics', 'physics', 'computer science'","'Friedrich L. Bauer Prize', 'MacArthur Fellows Program', 'Fellow of the American Mathematical Society'",artificial intelligence researcher
+66,Q577146,Daniel Goossens,'Paris 8 University',,"""grand prix de la ville d'Angoulême""",artificial intelligence researcher
+67,Q92844,David Marr,"'University of Cambridge', 'Trinity College', 'Rugby School'",,'IJCAI Computers and Thought Award',artificial intelligence researcher
+68,Q3572699,Yoshua Bengio,'McGill University',"'artificial intelligence', 'deep learning'","'Turing Award', 'Prix Marie-Victorin', 'Acfas Urgel-Archambeault Award', 'Officer of the Order of Canada', 'AAAI Fellow', 'Fellow of the Royal Society of Canada'",artificial intelligence researcher
+69,Q710266,Arthur Samuel,"'Massachusetts Institute of Technology', 'College of Emporia'",'machine learning',"'Computer Pioneer Award', 'Fellow of the American Physical Society'",artificial intelligence researcher
+70,Q92735,Jürgen Schmidhuber,'Technical University of Munich','artificial intelligence',,artificial intelligence researcher
+71,Q92820,Raj Reddy,"'Stanford University', 'University of New South Wales', 'Guindy Engineering College'","'artificial intelligence', 'robotics', 'human–computer interaction'","'IEEE Fellow', 'Turing Award', 'Knight of the Legion of Honour', 'Okawa Prize', 'AAAI Fellow', 'Padma Bhushan in science & engineering', 'Fellow of the Acoustical Society of America'",artificial intelligence researcher
+72,Q687346,Armin B. Cremers,"'Karlsruhe Institute of Technology', 'University of Karlsruhe'",,,artificial intelligence researcher
+73,Q2392290,Brian D. Ripley,'University of Cambridge',,"'Adams Prize', 'Rollo Davidson Prize', 'Fellow of the Royal Society of Edinburgh', 'Guy Medal in Silver'",artificial intelligence researcher
+74,Q2846695,Andrew Y. Ng,"'Massachusetts Institute of Technology', 'University of California, Berkeley', 'Carnegie Mellon University', 'Raffles Institution'",,'IJCAI Computers and Thought Award',artificial intelligence researcher
+75,Q3022082,Demetri Terzopoulos,"'Massachusetts Institute of Technology', 'McGill University'",,"'Academy Award for Technical Achievement', 'IEEE Fellow', 'Guggenheim Fellowship', 'Fellow of the Royal Society', 'ACM Fellow', 'Fellow of the Royal Society of Canada', 'PAMI Distinguished Researcher Award'",artificial intelligence researcher
+76,Q3311842,Jorn Barger,,,,artificial intelligence researcher
+77,Q3709938,Woody Bledsoe,"'University of California, Berkeley'",,'Herbrand Award',artificial intelligence researcher
+78,Q92665,John F. Sowa,"'Harvard University', 'Massachusetts Institute of Technology', 'Harvard School of Engineering and Applied Sciences', 'Free University of Brussels'",,,artificial intelligence researcher
+79,Q92823,Edward Feigenbaum,"'Carnegie Mellon University', 'Weehawken High School'",'computer science',"'Turing Award', 'Computer Pioneer Award', 'ACM Fellow', 'AAAI Fellow', 'Computer History Museum fellow'",artificial intelligence researcher
+80,Q92981,Gerald Jay Sussman,'Massachusetts Institute of Technology','cognitive science',"'IEEE Fellow', 'AAAS Fellow', 'IJCAI Computers and Thought Award', 'ACM Fellow'",artificial intelligence researcher
+81,Q391237,John Hopfield,"'Cornell University', 'Swarthmore College'",'biology',"'Benjamin Franklin Medal', 'Dirac Prize', 'Albert Einstein World Award of Science', 'Guggenheim Fellowship', 'MacArthur Fellows Program', 'Oliver E. Buckley Condensed Matter Prize', 'Max Delbruck Prize', 'IEEE Frank Rosenblatt Award', 'Harold Pender Award', 'Swartz Prize', 'ICTP Dirac Medal', 'Fellow of the American Physical Society', 'AAAS Fellow'",artificial intelligence researcher
+82,Q611080,Roger Schank,"'University of Texas at Austin', 'Carnegie Mellon University'","'artificial intelligence', 'education science'",,artificial intelligence researcher
+83,Q770584,Hal Abelson,"'Princeton University', 'Massachusetts Institute of Technology'","'law', 'ethics', 'computer science', 'informatics'",'IEEE Fellow',artificial intelligence researcher
+84,Q1176469,David S. Touretzky,"'Carnegie Mellon University', 'Rutgers University'",,'ACM Distinguished Member',artificial intelligence researcher
+85,Q1905174,Martin Vingron,'Heidelberg University',,"'Max Planck Research Award', 'ISCB Fellow'",artificial intelligence researcher
+86,Q3442370,Rose Dieng Kuntz,"'École polytechnique', 'Télécom Paris'",'artificial intelligence',"'Irène-Joliot-Curie Prize', 'Knight of the Legion of Honour'",artificial intelligence researcher
+87,Q3992579,Tomaso A. Poggio,'University of Genoa',,"'Max Planck Research Award', 'Azriel Rosenfeld Award', 'Swartz Prize', 'AAAI Fellow', 'AAAS Fellow'",artificial intelligence researcher
+88,Q4470008,Yorick Wilks,"'Pembroke College', ""Torquay Boys' Grammar School""",'artificial intelligence',"'Lovelace Medal', 'Fellow of the British Computer Society', 'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+89,Q11590,Phyllis Fox,"'Massachusetts Institute of Technology', 'Wellesley College', 'University of Colorado'",,,artificial intelligence researcher
+90,Q11770,Amy L. Lansky,,,,artificial intelligence researcher
+91,Q14254,Karen Spärck Jones,'Girton College','computer science',"'Lovelace Medal', 'Gerard Salton Award', 'AAAI Fellow', 'Fellow of the British Academy', 'ACM - AAAI Allen Newell Award', 'Athena Lecturer'",artificial intelligence researcher
+92,Q51781,Katia Sycara,"'Brown University', 'University of Wisconsin–Madison', 'Georgia Institute of Technology', 'University of Wisconsin–Milwaukee'","'artificial intelligence', 'Semantic Web'",'AAAI Fellow',artificial intelligence researcher
+93,Q11644,Ayanna Howard,"'University of Southern California', 'Brown University', 'Claremont Graduate University', 'USC Viterbi School of Engineering'",,,artificial intelligence researcher
+94,Q14109,Rosalind Picard,"'Massachusetts Institute of Technology', 'Georgia Institute of Technology', 'Berry College'",,'IEEE Fellow',artificial intelligence researcher
+95,Q16118,Manuela M. Veloso,"'Boston University', 'Carnegie Mellon University', 'Instituto Superior Técnico'",,"'ACM Fellow', 'AAAI Fellow', 'Mulheres na Ciência'",artificial intelligence researcher
+96,Q10959,Ruzena Bajcsy,"'Stanford University', 'Slovak University of Technology in Bratislava'","'artificial intelligence', 'robotics', 'computer vision'","'IEEE Fellow', 'Benjamin Franklin Medal', 'IEEE Robotics and Automation Award', 'Anita Borg Institute Women of Vision Awards', 'ACM Fellow', 'AAAI Fellow', 'ACM - AAAI Allen Newell Award', 'AAAS Fellow', 'ACM Distinguished Service Award', 'NCWIT Pioneer in Tech Award'",artificial intelligence researcher
+97,Q11755,Daphne Koller,"'Stanford University', 'Hebrew University of Jerusalem'",'machine learning',"'MacArthur Fellows Program', 'IJCAI Computers and Thought Award', 'AAAI Fellow', 'ISCB Fellow', 'ACM Prize in Computing', 'AAAS Fellow', 'Continuing Bass University Fellow in Undergraduate Education'",artificial intelligence researcher
+98,Q62901,Sebastian Thrun,"'University of Bonn', 'University of Hildesheim'","'machine learning', 'robotics'","'Braunschweiger Forschungspreis', 'Max Planck Research Award', 'AAAI Fellow', 'The James Smithson Bicentennial Medal'",artificial intelligence researcher
+99,Q14234,Sarit Kraus,'Hebrew University of Jerusalem',"'artificial intelligence', 'computer science'","'IJCAI Computers and Thought Award', 'The EMET Prize for Art, Science and Culture', 'ACM Fellow', 'AAAI Fellow', 'Athena Lecturer'",artificial intelligence researcher
+100,Q4730800,Allan M. Collins,'University of Michigan',,"'Guggenheim Fellowship', 'Fellow of the Cognitive Science Society'",artificial intelligence researcher
+101,Q4760523,Andy Clark,,"'logic', 'metaphysics'","'Fellow of the Royal Society of Edinburgh', 'Fellow of the British Academy'",artificial intelligence researcher
+102,Q4794554,Arne Eigenfeldt,,,,artificial intelligence researcher
+103,Q4816115,Catherine G. Wolf,"'Brown University', 'Tufts University'",,,artificial intelligence researcher
+104,Q5230969,David B. Fogel,"'University of California, San Diego'",,'IEEE Fellow',artificial intelligence researcher
+105,Q5295258,Donald W. Loveland,"'Massachusetts Institute of Technology', 'New York University', 'Oberlin College'",'computer science',"'Herbrand Award', 'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+106,Q5490605,Frank van Harmelen,"'University of Edinburgh', 'Vrije Universiteit Amsterdam'",'Semantic Web',,artificial intelligence researcher
+107,Q5675083,Hartmut Neven,"'Ruhr University Bochum', 'Max Planck Institute for Biological Cybernetics'",'physics',,artificial intelligence researcher
+108,Q5967606,I-Chen Wu,"'National Taiwan University', 'Carnegie Mellon University'",,,artificial intelligence researcher
+109,Q5981834,Ian R. Horrocks,"'University of Manchester', 'Victoria University of Manchester'",,"'Fellow of the British Computer Society', 'Fellow of the Royal Society'",artificial intelligence researcher
+110,Q6141364,James Popple,'Australian National University',,,artificial intelligence researcher
+111,Q6288679,Josh Bongard,"'University of Zurich', 'McMaster University', 'University of Sussex'","'evolutionary computation', 'Evolutionary robotics'",'Presidential Early Career Award for Scientists and Engineers',artificial intelligence researcher
+112,Q6387625,Ken Forbus,'Massachusetts Institute of Technology',,"'ACM Fellow', 'AAAI Fellow', 'Fellow of the Cognitive Science Society'",artificial intelligence researcher
+113,Q6829382,Michael Collins,'University of Cambridge',,'Fellow of the Association for Computational Linguistics',artificial intelligence researcher
+114,Q7174922,Peter Jackson,'University of Leeds',,,artificial intelligence researcher
+115,Q4711956,Alberto Broggi,'University of Parma',,,artificial intelligence researcher
+116,Q5307654,Igor Aleksander,'Queen Mary University of London',,'Fellow of the Royal Academy of Engineering',artificial intelligence researcher
+117,Q4706277,Alan Bundy,'University of Leicester',,"'Herbrand Award', 'Fellow of the British Computer Society', 'Fellow of the Royal Society of Edinburgh', 'IJCAI Award for Research Excellence', 'Commander of the Order of the British Empire', 'Fellow of the Royal Society', 'Fellow of the Royal Academy of Engineering', 'ACM Fellow', 'AAAI Fellow', 'Fellow of the Institution of Engineering and Technology', 'EurAI Fellow'",artificial intelligence researcher
+118,Q4750428,Ana María Cetto,"'Harvard University', 'National Autonomous University of Mexico'",,,artificial intelligence researcher
+119,Q4806193,Ashwin Ram,"'Yale University', 'Indian Institute of Technology Delhi'",,,artificial intelligence researcher
+120,Q5112374,Christopher G. Atkeson,"'Harvard University', 'Massachusetts Institute of Technology', 'Harvard School of Engineering and Applied Sciences'",,,artificial intelligence researcher
+121,Q5240638,David Vernon,,,,artificial intelligence researcher
+122,Q5486203,Frank Dellaert,"'Carnegie Mellon University', 'Katholieke Universiteit Leuven', 'Case Western Reserve University'",,,artificial intelligence researcher
+123,Q4757923,Andrew McCallum,"'University of Massachusetts Amherst', 'Dartmouth College', 'University of Rochester'",,"'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+124,Q6015381,Peter Nordin,"'TU Dortmund', 'Chalmers University of Technology'",,,artificial intelligence researcher
+125,Q6304715,Juergen Pirner,,,,artificial intelligence researcher
+126,Q6504172,Lawrence Hunter,'Yale University',,'ISCB Fellow',artificial intelligence researcher
+127,Q6761495,Maria Petrou,"'University of Cambridge', 'Aristotle University of Thessaloniki'",,"'Fellow of the Royal Academy of Engineering', 'Fellow of the International Association for Pattern Recognition'",artificial intelligence researcher
+128,Q6766466,Mark A. O'Neill,"'University of London', 'University of Sheffield', ""The King's School, Grantham""",'ecosystem model',"'Fellow of the British Computer Society', 'Fellow of the Royal Entomological Society'",artificial intelligence researcher
+129,Q7176068,Peter Nelson,,,,artificial intelligence researcher
+130,Q5214735,Dana H. Ballard,"'Massachusetts Institute of Technology', 'University of Michigan', 'University of California, Irvine'",,'Fellow of the Cognitive Science Society',artificial intelligence researcher
+131,Q6419303,Kjartan Ólafsson,'Reykjavík College of Music',,,artificial intelligence researcher
+132,Q4662445,Aaron Sloman,"'University of Edinburgh', 'Balliol College', 'University of Cape Town', ""St Antony's College""",,"'Rhodes Scholarship', 'Barwise Prize', 'AAAI Fellow'",artificial intelligence researcher
+133,Q4756294,Andrew Barto,"'University of Massachusetts Amherst', 'University of Michigan'","'artificial intelligence', 'computer science'","'IEEE Fellow', 'AAAS Fellow'",artificial intelligence researcher
+134,Q4895807,Bertram Raphael,"'Massachusetts Institute of Technology', 'Rensselaer Polytechnic Institute'",'artificial intelligence',,artificial intelligence researcher
+135,Q4925572,Blay Whitby,"'New College', 'Middlesex University'",,,artificial intelligence researcher
+136,Q4978459,Bruce Wilcox,'University of Michigan',,,artificial intelligence researcher
+137,Q5386619,Eric Grimson,"'Massachusetts Institute of Technology', 'University of Regina'","'artificial intelligence', 'computer vision'","'IEEE Fellow', 'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+138,Q5499948,Terry Bollinger,'Missouri University of Science and Technology',,,artificial intelligence researcher
+139,Q5592974,Graham Kendall,'University of Nottingham',,,artificial intelligence researcher
+140,Q5814314,Wally Feurzeig,"'University of Chicago', 'Illinois Institute of Technology'",'computer science',,artificial intelligence researcher
+141,Q5880225,Holger H. Hoos,'Technische Universität Darmstadt',,,artificial intelligence researcher
+142,Q6110605,Jacek M. Zurada,'Gdańsk University of Technology',,,artificial intelligence researcher
+143,Q6173359,Jeff Black,,,,artificial intelligence researcher
+144,Q6298326,João Pavão Martins,'Instituto Superior Técnico',,,artificial intelligence researcher
+145,Q6300747,Juan Pavón,"'Technical University of Madrid', 'Pierre and Marie Curie University'",'computer science',,artificial intelligence researcher
+146,Q7099202,Ora Lassila,'Helsinki University of Technology',,,artificial intelligence researcher
+147,Q4815998,Cynthia Solomon,"'Harvard University', 'Boston University', 'Radcliffe College', 'Harvard Graduate School of Education'",'computer science','NCWIT Pioneer in Tech Award',artificial intelligence researcher
+148,Q5307228,Drew McDermott,'Massachusetts Institute of Technology',,'AAAI Fellow',artificial intelligence researcher
+149,Q5394208,Ernesto Morgado,"'University at Buffalo', 'University of Lisbon'",,,artificial intelligence researcher
+150,Q6173703,Jeff Dean,"'University of Washington', 'University of Minnesota', 'The Paideia School'","'machine learning', 'compiler', 'computer architecture', 'distributed computing', 'information retrieval'","'honorary member', 'Mark Weiser Award', 'ACM Fellow', 'ACM Prize in Computing', 'AAAS Fellow'",artificial intelligence researcher
+151,Q6283747,Joseph Halpern,"'Harvard University', 'University of Toronto'",,"'IEEE Fellow', 'Dijkstra Prize', 'Guggenheim Fellowship', 'Gödel Prize', 'ACM Fellow', 'AAAI Fellow', 'ACM - AAAI Allen Newell Award'",artificial intelligence researcher
+152,Q6504196,Lawrence J. Fogel,"'New York University Tandon School of Engineering', 'Rutgers University'",,"'IEEE Fellow', 'IEEE Frank Rosenblatt Award'",artificial intelligence researcher
+153,Q6525804,Leonard Uhr,"'Princeton University', 'Johns Hopkins University', 'University of Michigan', 'Oak Lane Day School'",,,artificial intelligence researcher
+154,Q6526440,Leonid Perlovsky,,,,artificial intelligence researcher
+155,Q6687391,Louis Hodes,'Massachusetts Institute of Technology','mathematics',,artificial intelligence researcher
+156,Q6759197,Margaret Boden,"'Harvard University', 'Newnham College'",,"'Barwise Prize', 'Officer of the Order of the British Empire', 'AAAI Fellow', 'Fellow of the British Academy', 'EurAI Fellow'",artificial intelligence researcher
+157,Q7036068,Nikolaos Mavridis,'Massachusetts Institute of Technology',,,artificial intelligence researcher
+158,Q7129707,Pan Yunhe,"'Tongji University', 'Zhejiang University'",,'honorary doctor of the Hong Kong Polytechnic University',artificial intelligence researcher
+159,Q7174849,Peter J. Bentley,,,,artificial intelligence researcher
+160,Q7174866,Peter J. Fleming,,,"'Commander of the Order of the British Empire', 'Fellow of the Royal Academy of Engineering', 'Fellow of the International Federation of Automatic Control'",artificial intelligence researcher
+161,Q6133578,James F. Allen,'University of Toronto',"'artificial intelligence', 'computational linguistics'","'AAAI Fellow', 'Fellow of the Cognitive Science Society'",artificial intelligence researcher
+162,Q4801683,Artur d'Avila Garcez,"'University of London', 'Imperial College London'",,,artificial intelligence researcher
+163,Q4888930,Benjamin Kuipers,"'Massachusetts Institute of Technology', 'Swarthmore College'",,,artificial intelligence researcher
+164,Q4894234,Bernhard Schölkopf,"'Technical University of Berlin', 'University of Tübingen', 'University of London'","'machine learning', 'artificial intelligence'","'Berlin-Brandenburg Academy Award', 'Order of Merit of Baden-Württemberg', 'Gottfried Wilhelm Leibniz Prize', 'Annual BCI Research Award', 'Körber European Science Prize', 'Milner Award', 'ACM Fellow', 'J. K. Aggarwal Prize'",artificial intelligence researcher
+165,Q4913685,Bimal Kumar Bose,'University of Calcutta',,,artificial intelligence researcher
+166,Q5082169,Charles Rosen,"'Cooper Union', 'McGill University', 'Syracuse University'",'viticulture',,artificial intelligence researcher
+167,Q5248328,Deborah L. McGuinness,"'Duke University', 'University of California, Berkeley', 'Rutgers University'",,'AAAS Fellow',artificial intelligence researcher
+168,Q6531057,Leslie P. Kaelbling,'Stanford University','robotics',"'IJCAI Computers and Thought Award', 'AAAI Fellow'",artificial intelligence researcher
+169,Q6758241,Marcus Hutter,"'Ludwig Maximilian University of Munich', 'Technical University of Munich'",'artificial intelligence',,artificial intelligence researcher
+170,Q6769839,Mark Stephen Meadows,"'Harvard University', ""St. John's College""",,,artificial intelligence researcher
+171,Q6784751,Massimo Negrotti,,,,artificial intelligence researcher
+172,Q6851882,Milind Tambe,'Carnegie Mellon University',,"'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+173,Q7174005,Peter Flach,"'Tilburg University', 'Radboud University Nijmegen', 'University of Twente'",,,artificial intelligence researcher
+174,Q6835415,Michael Witbrock,'Carnegie Mellon University',,,artificial intelligence researcher
+175,Q4734303,Alok R. Chaturvedi,"'Birla Institute of Technology, Mesra', 'University of Wisconsin–Milwaukee'",,,artificial intelligence researcher
+176,Q4865105,Bart Selman,"'University of Toronto', 'Delft University of Technology'",,"'AAAS Fellow', 'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+177,Q5696759,Hector Levesque,'University of Toronto',,"'IJCAI Award for Research Excellence', 'IJCAI Computers and Thought Award', 'AAAI Fellow', 'Fellow of the Royal Society of Canada'",artificial intelligence researcher
+178,Q5934631,Hugo de Garis,'Université libre de Bruxelles',"'artificial intelligence', 'Evolvable hardware'",,artificial intelligence researcher
+179,Q6438346,Kristinn R. Thórisson,"'Massachusetts Institute of Technology', 'University of Iceland'",,,artificial intelligence researcher
+180,Q6490242,Larry E. Smith,'University of Toronto',,,artificial intelligence researcher
+181,Q4678847,Adam Cheyer,"'Brandeis University', 'University of California, Los Angeles', 'Sharon High School'",'artificial intelligence',,artificial intelligence researcher
+182,Q4811519,Astro Teller,"'Stanford University', 'Carnegie Mellon University'",,,artificial intelligence researcher
+183,Q5230499,David A. McAllester,'Massachusetts Institute of Technology',,'AAAI Fellow',artificial intelligence researcher
+184,Q5524998,Gary Drescher,'Massachusetts Institute of Technology',,,artificial intelligence researcher
+185,Q6135847,James Hendler,"'Yale University', 'Brown University', 'Southern Methodist University'",'artificial intelligence',"'IEEE Fellow', 'Fellow of the British Computer Society', 'AAAS Fellow', 'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+186,Q6293391,José Mauro Volkmer de Castilho,'Federal University of Rio Grande do Sul',,,artificial intelligence researcher
+187,Q4707215,Alan Mackworth,'Harvard University',,"'AAAI Fellow', 'Fellow of the Royal Society of Canada'",artificial intelligence researcher
+188,Q5006808,C. Raymond Perrault,"'McGill University', 'University of Michigan'",'artificial intelligence','AAAI Fellow',artificial intelligence researcher
+189,Q6265139,John Yen,"'University of California, Berkeley', 'Santa Clara University'",,,artificial intelligence researcher
+190,Q5199899,Cynbe ru Taren,,,,artificial intelligence researcher
+191,Q5214819,Dana S. Nau,"'Duke University', 'Missouri University of Science and Technology'",'Automated planning and scheduling',"'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+192,Q5232553,David Cope,,,,artificial intelligence researcher
+193,Q5364879,Ellen Hildreth,'Massachusetts Institute of Technology',,"'Presidential Young Investigator Award', 'AAAI Fellow'",artificial intelligence researcher
+194,Q5386185,Eric Brill,"'University of Pennsylvania', 'University of Texas at Austin', 'University of Chicago'",,,artificial intelligence researcher
+195,Q6114143,Jack Minker,"'University of Pennsylvania', 'Brooklyn College'",,"'IEEE Fellow', 'AAAS Fellow', 'ACM Fellow', 'AAAI Fellow', 'Heinz R. Pagels Human Rights of Scientists Award', 'ACM - AAAI Allen Newell Award'",artificial intelligence researcher
+196,Q6396777,Kevin Leyton-Brown,'Stanford University',,"'AAAI Fellow', 'ACM Distinguished Member'",artificial intelligence researcher
+197,Q6686513,Louis-Philippe Morency,'Massachusetts Institute of Technology',,,artificial intelligence researcher
+198,Q7037360,Nils John Nilsson,'Stanford University','artificial intelligence',"'IJCAI Award for Research Excellence', 'AAAI Fellow'",artificial intelligence researcher
+199,Q7101544,Oren Etzioni,"'Harvard University', 'Carnegie Mellon University'",'computer science',,artificial intelligence researcher
+200,Q7182032,Phil Husbands,'University of Edinburgh',,,artificial intelligence researcher
+201,Q7329766,Richard Waldinger,'Carnegie Mellon University',,"'Herbrand Award', 'AAAI Fellow'",artificial intelligence researcher
+202,Q7345367,Robert Hecht-Nielsen,'Arizona State University',,,artificial intelligence researcher
+203,Q7473569,Toby Walsh,"'University of Cambridge', 'University of Edinburgh'",'artificial intelligence',"'AAAI Fellow', 'Fellow of the Australian Academy of Science'",artificial intelligence researcher
+204,Q7378734,Rui de Figueiredo,"'Harvard University', 'Massachusetts Institute of Technology', 'Harvard School of Engineering and Applied Sciences'",,'IEEE Fellow',artificial intelligence researcher
+205,Q15994741,John Shawe-Taylor,"'University of Ljubljana', 'University of London', 'Imperial College London'",,,artificial intelligence researcher
+206,Q15995469,Munindar P. Singh,"'University of Texas at Austin', 'Indian Institute of Technology Delhi'",,"'IEEE Fellow', 'AAAS Fellow', 'AAAI Fellow'",artificial intelligence researcher
+207,Q7360779,Rolf Pfeifer,'ETH Zürich',,,artificial intelligence researcher
+208,Q16847797,Mustafa Suleyman,,,'Commander of the Order of the British Empire',artificial intelligence researcher
+209,Q7615001,Steven M. LaValle,,'robotics',,artificial intelligence researcher
+210,Q16027697,Jun Wang,'Peking University','genomics',"""Nature's 10""",artificial intelligence researcher
+211,Q17403115,Afzal Upal,,,,artificial intelligence researcher
+212,Q19289075,Carme Torras,,,"'Premio Nacional de Investigación Julio Rey Pastor', 'Premi Ictineu', 'Q31073982', 'National Research Award- Catalonia', 'Q65645581', 'Narcís Monturiol Medal'",artificial intelligence researcher
+213,Q21062282,Adam Gibson,,,,artificial intelligence researcher
+214,Q19879460,Henry Kautz,"'Cornell University', 'University of Rochester', 'University of Toronto', 'Johns Hopkins University'",'artificial intelligence',"'AAAS Fellow', 'IJCAI Computers and Thought Award', 'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+215,Q19364605,Peter Stone,'Carnegie Mellon University',,"'IJCAI Computers and Thought Award', 'AAAI Fellow'",artificial intelligence researcher
+216,Q7935571,Visakan Kadirkamanathan,'University of Cambridge',,,artificial intelligence researcher
+217,Q21066874,Pedro Domingos,"'University of California, Irvine', 'Technical University of Lisbon', 'Instituto Superior Técnico'",'artificial intelligence',"'Fulbright Scholarship', 'Sloan Fellowship', 'AAAI Fellow'",artificial intelligence researcher
+218,Q13269080,Category:Logic programming researchers,,,,artificial intelligence researcher
+219,Q25189853,Alex Graves,'Technical University of Munich',,,artificial intelligence researcher
+220,Q15995094,Lise Getoor,'Stanford University',,"'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+221,Q16729246,Michael Georgeff,'University of Melbourne',,,artificial intelligence researcher
+222,Q7652008,Sven Koenig,'Carnegie Mellon University','artificial intelligence','AAAI Fellow',artificial intelligence researcher
+223,Q7803487,Tim Finin,"'Massachusetts Institute of Technology', 'University of Illinois at Urbana–Champaign', 'Big Foot High School'","'artificial intelligence', 'natural language processing', 'Semantic Web', 'knowledge-based system', 'social informatics'","'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+224,Q8592573,Category:Machine learning researchers,,,,artificial intelligence researcher
+225,Q24004971,Francesca Rossi,"'University of Padua', 'University of Pisa'",,'AAAI Fellow',artificial intelligence researcher
+226,Q27831155,Lior Ron,'Stanford Graduate School of Business',,,artificial intelligence researcher
+227,Q10920533,Zhi-Hua Zhou,'Nanjing University',,"'IEEE Fellow', 'ACM Fellow', 'AAAI Fellow', 'Fellow of the International Association for Pattern Recognition', 'ACM Distinguished Member'",artificial intelligence researcher
+228,Q15517506,Oussama Khatib,"'Stanford University', ""Institut Supérieur de l'Aéronautique et de l'Espace""","'computer science', 'robotics'","'IEEE Fellow', 'PROSE Awards'",artificial intelligence researcher
+229,Q15480023,Robert Wilensky,'Yale University',,"'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+230,Q15994542,Nick Jennings,"'Queen Mary University of London', 'University of Exeter'",,"'IEEE Fellow', 'Fellow of the British Computer Society', 'IJCAI Computers and Thought Award', 'Fellow of the Royal Society of Arts', 'Fellow of the Royal Academy of Engineering', 'AAAI Fellow', 'Fellow of the Institution of Engineering and Technology'",artificial intelligence researcher
+231,Q15995108,Barbara J. Grosz,"'Cornell University', 'University of California, Berkeley'",'artificial intelligence',"'Fellow of the Royal Society of Edinburgh', 'AAAS Fellow', 'IJCAI Award for Research Excellence', 'ACM Fellow', 'AAAI Fellow', 'ACM - AAAI Allen Newell Award', 'AAAS Fellow'",artificial intelligence researcher
+232,Q15995373,Pierre-Yves Oudeyer,"'École Normale Supérieure de Lyon', 'Pierre and Marie Curie University'",,'Q58023414',artificial intelligence researcher
+233,Q16132585,Amnon Shashua,"'Weizmann Institute of Science', 'Massachusetts Institute of Technology', 'Tel Aviv University'",'computer science',"'Dan David Prize', 'Michael Landau Prize'",artificial intelligence researcher
+234,Q7364451,Ron Sun,'Brandeis University',,,artificial intelligence researcher
+235,Q7451965,Sepp Hochreiter,'Technical University of Munich',,,artificial intelligence researcher
+236,Q16591761,Ben Taskar,'Stanford University',,,artificial intelligence researcher
+237,Q7916327,Vasant Honavar,"'Drexel University', 'University of Wisconsin–Madison', 'Bangalore University'",,'AAAS Fellow',artificial intelligence researcher
+238,Q8445862,Category:Fellows of the Association for the Advancement of Artificial Intelligence,,,,artificial intelligence researcher
+239,Q17612194,"John Henry Clippinger, Jr.","'Yale University', 'Annenberg School for Communication at the University of Pennsylvania'",,,artificial intelligence researcher
+240,Q18817338,Noriko Arai,"'Hitotsubashi University', 'University of Illinois at Urbana–Champaign', 'Tokyo Institute of Technology'",,,artificial intelligence researcher
+241,Q23770411,Murray Shanahan,"'University of Cambridge', 'Imperial College London'",'artificial intelligence',,artificial intelligence researcher
+242,Q15429177,Michael Uschold,"'University of Edinburgh', 'Rutgers University', 'Canisius College'",,,artificial intelligence researcher
+243,Q16216565,Rayid Ghani,'Carnegie Mellon University','computer science',,artificial intelligence researcher
+244,Q7328833,Richard S. Sutton,"'University of Massachusetts Amherst', 'Stanford University'",'reinforcement learning','AAAI Fellow',artificial intelligence researcher
+245,Q7364966,Ronald J. Brachman,"'Harvard University', 'Princeton University'",'artificial intelligence',"'IEEE Fellow', 'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+246,Q8074621,Zoubin Ghahramani,"'Massachusetts Institute of Technology', 'University of Pennsylvania', 'The American School of Madrid'",'machine learning','Fellow of the Royal Society',artificial intelligence researcher
+247,Q17490540,Catherine Havasi,"'Massachusetts Institute of Technology', 'Brandeis University'",,,artificial intelligence researcher
+248,Q27576279,Kriti Sharma,'University of St Andrews',,,artificial intelligence researcher
+249,Q18686489,Guberman Shelia,,,,artificial intelligence researcher
+250,Q21333981,Stephen Falken,,,,artificial intelligence researcher
+251,Q24666807,Lola Cañamero,'Complutense University of Madrid',,,artificial intelligence researcher
+252,Q23664234,Barney Pell,'Stanford University','computer science','Marshall Scholarship',artificial intelligence researcher
+253,Q23713350,Jennifer Healey,'Massachusetts Institute of Technology',,,artificial intelligence researcher
+254,Q14948899,Justine Cassell,"'Dartmouth College', 'University of Chicago', 'University of Edinburgh', ""Saint Ann's School""",,"'Fellow of the Royal Society of Edinburgh', 'Anita Borg Institute Women of Vision Awards', 'ACM Fellow'",artificial intelligence researcher
+255,Q15499749,Michael Deering,"'University of California, Berkeley'",,,artificial intelligence researcher
+256,Q16192619,Selmer Bringsjord,"'Brown University', 'University of Pennsylvania'",,,artificial intelligence researcher
+257,Q7418633,Sankar Kumar Pal,"'Imperial College London', 'University of Calcutta'",,"'IEEE Fellow', 'Shanti Swarup Bhatnagar Prize for Science and Technology', 'Jawarharlal Nehru Fellowship', 'G.D. Birla Award for Scientific Research', 'Padma Shri in science & engineering', 'Fellow of the International Association for Pattern Recognition'",artificial intelligence researcher
+258,Q7597639,Stan Franklin,"'University of California, Los Angeles'",,,artificial intelligence researcher
+259,Q7816669,Tom M. Mitchell,"'Stanford University', 'Massachusetts Institute of Technology'",'machine learning',"'AAAS Fellow', 'IJCAI Computers and Thought Award', 'AAAI Fellow', 'AAAS Fellow'",artificial intelligence researcher
+260,Q7925676,Victor Allis,"'Vrije Universiteit Amsterdam', 'Maastricht University'",,,artificial intelligence researcher
+261,Q26924676,Anthony Levandowski,"'University of California, Berkeley'",,,artificial intelligence researcher
+262,Q9364155,Ruqian Lu,'University of Jena',,,artificial intelligence researcher
+263,Q18719196,John D. Lafferty,'Princeton University','computer science',,artificial intelligence researcher
+264,Q18719253,Eric P. Xing,"'Tsinghua University', 'University of California, Berkeley', 'Rutgers University'",'machine learning','AAAI Fellow',artificial intelligence researcher
+265,Q20652360,Salvatore J. Stolfo,"'New York University', 'Brooklyn College', 'Courant Institute of Mathematical Sciences'",,,artificial intelligence researcher
+266,Q22278829,Shane Legg,"'University of Auckland', 'University of Waikato', 'Dalle Molle Institute for Artificial Intelligence Research', 'Rotorua Lakes High School'",'machine learning','Commander of the Order of the British Empire',artificial intelligence researcher
+267,Q15995453,Lenhart Schubert,'University of Toronto','artificial intelligence','AAAI Fellow',artificial intelligence researcher
+268,Q15994398,Nando de Freitas,"'Trinity College', 'University of the Witwatersrand'",'computer science',,artificial intelligence researcher
+269,Q7341095,Robby Garner,,,,artificial intelligence researcher
+270,Q8009533,William G. Harless,,,,artificial intelligence researcher
+271,Q26709023,Klaus-Robert Müller,'University of Karlsruhe',"'machine learning', 'artificial intelligence'","'Berlin Science Award', 'Forschungspreis Technische Kommunikation'",artificial intelligence researcher
+272,Q20675791,Shlomo Zilberstein,"'University of Massachusetts Amherst', 'University of California, Berkeley', 'Technion – Israel Institute of Technology'",,'AAAI Fellow',artificial intelligence researcher
+273,Q22279523,Nobuyuki Otsu,"'University of Tokyo', 'Tokyo University'",,,artificial intelligence researcher
+274,Q15991498,Pat Ambler,'Newnham College',,,artificial intelligence researcher
+275,Q7299101,Raymond Reiter,'University of Michigan','non-monotonic logic',"'IJCAI Award for Research Excellence', 'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+276,Q7325676,Richard Fikes,'Carnegie Mellon University','computer science','AAAI Fellow',artificial intelligence researcher
+277,Q7328227,Richard P. Gabriel,"'Northeastern University', 'Stanford University', 'Massachusetts Institute of Technology', 'University of Illinois system'",,"'ACM Fellow', 'ACM - AAAI Allen Newell Award'",artificial intelligence researcher
+278,Q7346644,"Robert L. Simpson, Jr.",,,,artificial intelligence researcher
+279,Q7365183,Ronald R. Yager,'New York University Tandon School of Engineering',,"'IEEE Fellow', 'IEEE Frank Rosenblatt Award'",artificial intelligence researcher
+280,Q7610052,Stephen Muggleton,'University of Edinburgh',,"'Fellow of the Royal Academy of Engineering', 'AAAI Fellow'",artificial intelligence researcher
+281,Q7613510,Steve Omohundro,"'Stanford University', 'University of California, Berkeley'",'artificial intelligence',,artificial intelligence researcher
+282,Q7620527,Stott Parker,"'Princeton University', 'University of Illinois at Urbana–Champaign'",,,artificial intelligence researcher
+283,Q8445929,Category:Fellows of the SSAISB,,,,artificial intelligence researcher
+284,Q27839507,Robert Tienwen Chien,'National Taiwan University',,,artificial intelligence researcher
+285,Q21712134,Ilya Sutskever,"'Stanford University', 'University of Toronto', 'Open University of Israel'",'machine learning',,artificial intelligence researcher
+286,Q13541959,Herbert Gelernter,'University of Rochester',,,artificial intelligence researcher
+287,Q15994776,Austin Tate,"'University of Edinburgh', 'University of Lancaster'",'artificial intelligence',"'Fellow of the British Computer Society', 'Fellow of the Royal Academy of Engineering', 'AAAI Fellow'",artificial intelligence researcher
+288,Q16728975,David Ferrucci,"'Rensselaer Polytechnic Institute', 'Manhattan College'",,,artificial intelligence researcher
+289,Q16976397,Joshua B. Tenenbaum,"'Massachusetts Institute of Technology', 'Yale University'",,"'MacArthur Fellows Program', 'Fellow of the Cognitive Science Society', 'Fellow of the Society of Experimental Psychologists', 'William K. Estes Early Career Award'",artificial intelligence researcher
+290,Q17517256,Radhika Nagpal,'Massachusetts Institute of Technology','computer science',"'AAAI Fellow', ""Nature's 10""",artificial intelligence researcher
+291,Q26702597,Richard S. Zemel,"'Harvard University', 'University of Toronto'",'mathematics',,artificial intelligence researcher
+292,Q26703063,Ian J. Goodfellow,"'Stanford University', 'Université de Montréal', 'San Dieguito Academy'",'deep learning',,artificial intelligence researcher
+293,Q18209599,François Pachet,"'École des Ponts ParisTech', 'Pierre and Marie Curie University'",,,artificial intelligence researcher
+294,Q19609665,Jean-Christophe Baillie,'École polytechnique',,,artificial intelligence researcher
+295,Q22095352,Kim Binsted,"'University of Edinburgh', 'McGill University'",,,artificial intelligence researcher
+296,Q24141782,Ashutosh Saxena,"'Stanford University', 'Indian Institute of Technology Kanpur'","'machine learning', 'robotics'",,artificial intelligence researcher
+297,Q24698708,Tomáš Mikolov,'Brno University of Technology',"'natural language processing', 'Word2vec'",'Q106065945',artificial intelligence researcher
+298,Q27733777,Bidyut Baran Chaudhuri,"'Indian Institute of Technology Kanpur', 'University of Calcutta'",,"'IEEE Fellow', 'Fellow of the International Association for Pattern Recognition'",artificial intelligence researcher
+299,Q28008591,Gary B. Fogel,"'University of California, Los Angeles', 'University of California, Santa Cruz'",,'IEEE Fellow',artificial intelligence researcher
+300,Q28714765,Q28714765,,,,artificial intelligence researcher
+301,Q28131521,Chris Nicholson,'Deep Springs College',,,artificial intelligence researcher
+302,Q29351163,Moshe Tennenholtz,"'Weizmann Institute of Science', 'Tel Aviv University'",,"'AAAI Fellow', 'ACM - AAAI Allen Newell Award'",artificial intelligence researcher
+303,Q30093861,Tom Heskes,'Radboud University Nijmegen','machine learning',,artificial intelligence researcher
+304,Q36988195,Paul Kruszewski,"'McGill University', 'University of Alberta'",,,artificial intelligence researcher
+305,Q29043415,Janusz Kacprzyk,'Warsaw University of Technology','artificial intelligence','IEEE Fellow',artificial intelligence researcher
+306,Q29359053,Stefan Schaal,'Massachusetts Institute of Technology',,'IEEE Fellow',artificial intelligence researcher
+307,Q44689609,Andreas Krause,'Carnegie Mellon University',"'machine learning', 'artificial intelligence'",,artificial intelligence researcher
+308,Q40864048,Stefan Haufe,'Technical University of Berlin',,,artificial intelligence researcher
+309,Q33125489,Michael Wooldridge,"'University of Manchester', 'Victoria University of Manchester', 'University of Manchester Institute of Science and Technology'",,"'Fellow of the British Computer Society', 'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+310,Q41803891,Carla Gomes,"'University of Edinburgh', 'Technical University of Lisbon'","'artificial intelligence', 'computational sustainability'","'AAAS Fellow', 'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+311,Q29221954,Koray Kavukcuoglu,'New York University',"'machine learning', 'deep learning'",,artificial intelligence researcher
+312,Q48913643,Q48913643,"""Xi'an Jiaotong University""",,,artificial intelligence researcher
+313,Q38135562,Wojciech Samek,'Technical University of Berlin',"'machine learning', 'deep learning', 'computer vision'",,artificial intelligence researcher
+314,Q44585452,Yee Whye Teh,"'University of Toronto', 'University of Waterloo'",,,artificial intelligence researcher
+315,Q44726176,Le Song,,'machine learning',,artificial intelligence researcher
+316,Q44741969,Joëlle Pineau,"'Carnegie Mellon University', 'University of Waterloo'","'artificial intelligence', 'computer science', 'robotics'","'AAAI Fellow', 'Q67189629'",artificial intelligence researcher
+317,Q41044973,Jonas Kubilius,"'Massachusetts Institute of Technology', 'Katholieke Universiteit Leuven'",,,artificial intelligence researcher
+318,Q51101234,Alexander Meyer,"'The Rockefeller University', 'Klinikum der Johann Wolfgang Goethe-Universität Frankfurt'",,,artificial intelligence researcher
+319,Q46365308,Xiang Zhang,"'New York University', 'Tianjin University'","'machine learning', 'deep learning'",,artificial intelligence researcher
+320,Q51035916,Timothy Lillicrap,"""Queen's University""",,,artificial intelligence researcher
+321,Q52274445,Carol E. Reiley,'Santa Clara University',,,artificial intelligence researcher
+322,Q30325390,Raquel Urtasun,"'École polytechnique fédérale de Lausanne', 'Public University of Navarre'","'machine learning', 'artificial intelligence'",,artificial intelligence researcher
+323,Q44728459,Nathan Srebro,"'Massachusetts Institute of Technology', 'Technion – Israel Institute of Technology'",'machine learning',,artificial intelligence researcher
+324,Q28017187,Alexander J. Smola,"'Technical University of Berlin', 'Technical University of Munich', 'University of California, Berkeley'","'machine learning', 'artificial intelligence'",,artificial intelligence researcher
+325,Q54835989,Odej Kao,'Clausthal University of Technology',,,artificial intelligence researcher
+326,Q29021171,Laurens van der Maaten,'Tilburg University','machine learning',,artificial intelligence researcher
+327,Q29107878,Simon Birrell,'University of Cambridge',,,artificial intelligence researcher
+328,Q60665594,James Spencer,'University of Cambridge',,,artificial intelligence researcher
+329,Q29509405,Joaquin Quiñonero Candela,'Technical University of Denmark','bioinformatics',,artificial intelligence researcher
+330,Q61741269,Emma Hart,'University of Oxford',,,artificial intelligence researcher
+331,Q58219910,Uwe Ohler,'University of Erlangen-Nuremberg',,,artificial intelligence researcher
+332,Q58492861,Karen Simonyan,'University of Oxford',,,artificial intelligence researcher
+333,Q44729015,Sewoong Oh,"'Seoul National University', 'Stanford University'",'machine learning',,artificial intelligence researcher
+334,Q44749723,Ashish Vaswani,'University of Southern California',,,artificial intelligence researcher
+335,Q59746330,Hervé Jégou,'University of Rennes 1',,,artificial intelligence researcher
+336,Q63930778,Marcel van Gerven,'Radboud University Nijmegen',,,artificial intelligence researcher
+337,Q55433882,Meredith Whittaker,'UC Berkeley College of Engineering',,,artificial intelligence researcher
+338,Q38192433,Pushpak Bhattacharyya,"'Indian Institute of Technology Kanpur', 'Indian Institute of Technology Bombay', 'Indian Institute of Technology Kharagpur'",'computer science',,artificial intelligence researcher
+339,Q29918552,Félix Gers,'École polytechnique fédérale de Lausanne',,,artificial intelligence researcher
+340,Q30594367,Emanuel Todorov,"'Massachusetts Institute of Technology', 'West Virginia Wesleyan College'",'neuroscience',,artificial intelligence researcher
+341,Q57054162,Danh Le Phuoc,'NUI Galway',,,artificial intelligence researcher
+342,Q57078222,Ida Momennejad,'Humboldt University of Berlin',,,artificial intelligence researcher
+343,Q41105043,Tim Conrad,,,,artificial intelligence researcher
+344,Q57242868,Doina Precup,"'University of Massachusetts Amherst', 'Technical University of Cluj-Napoca'",,,artificial intelligence researcher
+345,Q59678517,Aldo Faisal,'University of Cambridge',,,artificial intelligence researcher
+346,Q60191735,Marina Jirotka,,,,artificial intelligence researcher
+347,Q60735386,Boi Faltings,'University of Illinois at Urbana–Champaign','artificial intelligence',,artificial intelligence researcher
+348,Q63087964,David Pfau,"'Stanford University', 'Columbia University'",,,artificial intelligence researcher
+349,Q46351067,Babak Hodjat,"'Kyushu University', 'Sharif University of Technology'",,,artificial intelligence researcher
+350,Q29562949,Asunción Gómez Pérez,'Technical University of Madrid',,,artificial intelligence researcher
+351,Q58007807,Shlomo Argamon,"'Yale University', 'Carnegie Mellon University'",,,artificial intelligence researcher
+352,Q49493676,Tabitha Goldstaub,,,'Member of the Order of the British Empire',artificial intelligence researcher
+353,Q33372235,Gregory Grefenstette,"'Stanford University', 'Massachusetts Institute of Technology', 'University of Pittsburgh', 'Université catholique de Louvain', 'University of Paris-Sud', 'Sorbonne University'",'computer science',,artificial intelligence researcher
+354,Q56420501,Michael Beetz,,,,artificial intelligence researcher
+355,Q33101578,Dominique Sciamma,'Paris Diderot University',,,artificial intelligence researcher
+356,Q50359463,David Ha,,,,artificial intelligence researcher
+357,Q50413465,Volker Markl,'Technical University of Munich',"'machine learning', 'big data'",'ACM Fellow',artificial intelligence researcher
+358,Q59681981,Vincent Vanhoucke,'Stanford University',,,artificial intelligence researcher
+359,Q60602729,Begüm Demir,,"'machine learning', 'remote sensing', 'signal processing', 'Image analysis'",,artificial intelligence researcher
+360,Q44688701,Nicolas Heess,'University of Edinburgh',,,artificial intelligence researcher
+361,Q44752417,Ming-Yu Liu,,"'deep learning', 'computer vision'",,artificial intelligence researcher
+362,Q37380413,Henning Sprekeler,,'computational neuroscience',,artificial intelligence researcher
+363,Q45894406,William T. Freeman,"'Stanford University', 'Massachusetts Institute of Technology'",,"'IEEE Fellow', 'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+364,Q54959184,Karen Myers,"'Stanford University', 'University of Toronto'",'computer science',,artificial intelligence researcher
+365,Q29469646,Benjamin Blankertz,'University of Münster',"'machine learning', 'brain–computer interface'",,artificial intelligence researcher
+366,Q30289457,Kate Devlin,"'University of Bristol', ""Queen's University Belfast""","'artificial intelligence', 'human–computer interaction'",,artificial intelligence researcher
+367,Q30525004,Maximilian Nickel,'Ludwig Maximilian University of Munich','machine learning',,artificial intelligence researcher
+368,Q57570160,Vladimir Spokoiny,'Moscow State University',,,artificial intelligence researcher
+369,Q58030770,Sylvia Weir,'University of the Witwatersrand',,,artificial intelligence researcher
+370,Q40941782,Frederick Klauschen,,,,artificial intelligence researcher
+371,Q59753117,Timnit Gebru,'Stanford University',"'data mining', 'algorithmic bias'",,artificial intelligence researcher
+372,Q52174287,Natalya Noy,"'Moscow State University', 'Northeastern University', 'Boston University'",,'AAAI Fellow',artificial intelligence researcher
+373,Q61000656,Claudiu Mihăilă,"'University of Manchester', 'Alexandru Ioan Cuza University'",,,artificial intelligence researcher
+374,Q59830810,Stuart Armstrong,'University of Oxford',,,artificial intelligence researcher
+375,Q45421828,Manfred Opper,,,,artificial intelligence researcher
+376,Q46165698,David Sussillo,'Columbia University',,,artificial intelligence researcher
+377,Q55238685,Giuseppe Caire,"'Princeton University', 'Polytechnic University of Turin'",'wireless communication',"'IEEE Fellow', 'Gottfried Wilhelm Leibniz Prize', 'Alexander von Humboldt Professorship'",artificial intelligence researcher
+378,Q47030267,Oriol Vinyals,"'University of California, Berkeley', 'Carnegie Mellon University', 'University of California, San Diego', 'Universitat Politècnica de Catalunya'",,,artificial intelligence researcher
+379,Q55977230,Shanavas Muhammad,'University of Calicut','scientific research',,artificial intelligence researcher
+380,Q56037405,Andrej Karpathy,'Stanford University',,,artificial intelligence researcher
+381,Q41625836,Anja Hennemuth,"'University of Hamburg', 'University of Bremen'",,,artificial intelligence researcher
+382,Q59344603,Angelo Dalli,"'University of Malta', 'University of Sheffield'",,'bronze medal',artificial intelligence researcher
+383,Q59828288,Tuomas Sandholm,"'University of Massachusetts Amherst', 'Aalto University'",,,artificial intelligence researcher
+384,Q44176957,Jessica B. Hamrick,"'Massachusetts Institute of Technology', 'University of California, Berkeley'",,,artificial intelligence researcher
+385,Q61904879,Kunihiko Fukushima,'Kyoto University','computer science',,artificial intelligence researcher
+386,Q44732069,Emma Brunskill,,'computer science',,artificial intelligence researcher
+387,Q56315006,Jérôme Lang,,,,artificial intelligence researcher
+388,Q57164500,Frank Noé,'Heidelberg University',,,artificial intelligence researcher
+389,Q50359455,Awni Hannun,'Stanford University',,,artificial intelligence researcher
+390,Q51036021,Thore Graepel,'Technical University of Berlin',,,artificial intelligence researcher
+391,Q59820905,Yani Ioannou,'University of Cambridge',,,artificial intelligence researcher
+392,Q60215473,"Charles Lee Isbell, Jr.","'Massachusetts Institute of Technology', 'Georgia Institute of Technology'","'machine learning', 'artificial intelligence'","'ACM Fellow', 'AAAI Fellow'",artificial intelligence researcher
+393,Q60649424,Noor Shaker,"'IT University of Copenhagen', 'Katholieke Universiteit Leuven', 'Damascus University'",,'BBC 100 Women',artificial intelligence researcher
+394,Q63699901,Danqi Chen,"'Tsinghua University', 'Stanford University'","'artificial intelligence', 'natural language processing'",,artificial intelligence researcher
+395,Q63759170,Oleg Anshakov,'Moscow State Pedagogical University',"'artificial intelligence', 'Non-classical logic', 'Q19616187'",,artificial intelligence researcher
+396,Q55656100,Ismat Beg,"'Government College University', 'University of Bucharest'",,"'Fellow of Pakistan Academy of Sciences', 'Fellow of the Institute of Mathematics and its Applications'",artificial intelligence researcher
+397,Q57306218,Dumitru Erhan,'Université de Montréal',,,artificial intelligence researcher
+398,Q59753151,Marinka Žitnik,"'University of Ljubljana', 'Stanford University'","'machine learning', 'medicine', 'artificial intelligence', 'bioinformatics'",,artificial intelligence researcher
+399,Q61159525,Kristof T. Schütt,,"'machine learning', 'artificial intelligence'",,artificial intelligence researcher
+400,Q108520425,Marius Heinrich,'Harvard University',"'software development', 'software architecture', 'theoretical computer science', 'computer science education'",,artificial intelligence researcher
+401,Q107165113,Shinichi Nakajima,'Tokyo Institute of Technology',"'machine learning', 'artificial intelligence'",,artificial intelligence researcher
+402,Q110442585,John Jumper,,,,artificial intelligence researcher
+403,Q107166343,Robert A. Vandermeulen,"'University of Michigan', 'University of Portland'","'machine learning', 'artificial intelligence'",,artificial intelligence researcher
+404,Q107694147,Chad Mills,"'University of Washington', 'University of Arizona'","'machine learning', 'artificial intelligence', 'computational linguistics'",,artificial intelligence researcher
+405,Q106428799,Alexander Reben,,,,artificial intelligence researcher
+406,Q106768647,Claire Vernade,'Télécom Paris',,,artificial intelligence researcher
+407,Q107119014,James Owen Ryan,"'University of Minnesota', 'University of California, Santa Cruz'",,,artificial intelligence researcher
+408,Q107165498,Lauritz Thamsen,'Technical University of Berlin',"'machine learning', 'artificial intelligence'",,artificial intelligence researcher
+409,Q107177039,Jorge-Arnulfo Quiané-Ruiz,,,,artificial intelligence researcher
+410,Q107743600,Benjamin Schrauwen,'Ghent University',,,artificial intelligence researcher
+411,Q107103591,Marc Toussaint,,"'machine learning', 'robotics'",,artificial intelligence researcher
+412,Q107718232,Daniel Campos,"'Rensselaer Polytechnic Institute', 'University of Washington'",'computational linguistics',,artificial intelligence researcher
+413,Q107046795,Peter Scott-Morgan,'Imperial College London',,,artificial intelligence researcher
+414,Q108296191,Nerea Luis Mingueza,'Carlos III University of Madrid',,,artificial intelligence researcher
+415,Q108397241,Terry R. Payne,,,,artificial intelligence researcher
+416,Q105834628,Abeba Birhane,"'University College Dublin', 'The Open University', 'Bahir Dar University'",,,artificial intelligence researcher
+417,Q107164638,Pan Kessel,,"'machine learning', 'artificial intelligence'",,artificial intelligence researcher
+418,Q107177125,Sławomir Stańczak,,,,artificial intelligence researcher
+419,Q107165918,Eleni Tzirita Zacharatou,'École polytechnique fédérale de Lausanne',,,artificial intelligence researcher
+420,Q107176451,Grégoire Montavon,"'Technical University of Berlin', 'École polytechnique fédérale de Lausanne'","'machine learning', 'artificial intelligence'",,artificial intelligence researcher
+421,Q107177069,Georgios Smaragdakis,"'Boston University', 'Technical University of Crete'",,,artificial intelligence researcher
+422,Q65923736,Nick Zhang,'University of Massachusetts Amherst',,,artificial intelligence researcher
+423,Q102120074,Philippe Jorrand,'Grenoble Institute of Technology',,,artificial intelligence researcher
+424,Q102245789,H. Keith Nishihara,"'Massachusetts Institute of Technology', 'University of Hawaii at Manoa'",,,artificial intelligence researcher
+425,Q102398512,André F. T. Martins,"'Carnegie Mellon University', 'Instituto Superior Técnico'",,,artificial intelligence researcher
+426,Q102429134,Varish Vyankatesh Mulwad,"'University of Maryland, Baltimore County'","'machine learning', 'natural language processing', 'Semantic Web'",,artificial intelligence researcher
+427,Q102733547,David A. Shamma,'Northwestern University',,,artificial intelligence researcher
+428,Q85199730,Wolfgang Ketter,'University of Minnesota',,,artificial intelligence researcher
+429,Q76727809,Dhruv Batra,'Carnegie Mellon University',,'Presidential Early Career Award for Scientists and Engineers',artificial intelligence researcher
+430,Q103177945,Mario Veruete,'University of Montpellier',,,artificial intelligence researcher
+431,Q104579580,David Horn (Israeli physicist),,,,artificial intelligence researcher
+432,Q97570799,Nal Kalchbrenner,'University of Oxford',,,artificial intelligence researcher
+433,Q98576154,Shaobo Hou,'University of Manchester',,,artificial intelligence researcher
+434,Q98799075,Simon Osindero,'University College London',,,artificial intelligence researcher
+435,Q102770389,Jay Pujara,"'Carnegie Mellon University', 'University of Maryland'",'artificial intelligence',,artificial intelligence researcher
+436,Q104172855,Konrad Żołna,'Jagiellonian University',,,artificial intelligence researcher
+437,Q95841036,Blaž Zupan,"'University of Ljubljana', 'University of Houston', 'Bežigrad Grammar School'","'machine learning', 'artificial intelligence', 'bioinformatics'",'Zois award',artificial intelligence researcher
+438,Q97521623,Arthur Guez,'University College London',,,artificial intelligence researcher
+439,Q80362266,Helen Chan Wolf,,,,artificial intelligence researcher
+440,Q100985216,Sophia Velastegui,,,,artificial intelligence researcher
+441,Q102382407,Peter-Paul van Maanen,'Vrije Universiteit Amsterdam',,,artificial intelligence researcher
+442,Q103015852,David Budden,"'Massachusetts Institute of Technology', 'University of Melbourne', 'University of Newcastle'",,,artificial intelligence researcher
+443,Q103250679,Michael Auli,'University of Edinburgh',,,artificial intelligence researcher
+444,Q103328717,Lisa Anne Hendricks,"'University of California, Berkeley', 'Rice University'",,,artificial intelligence researcher
+445,Q103365050,Igor Mordatch,'University of Washington',,,artificial intelligence researcher
+446,Q105046756,Mohamad Alissa,"'Edinburgh Napier University', 'Damascus University', 'Heriot-Watt University'",,"'Alison Cawsey Memorial Prize', 'Best research paper award'",artificial intelligence researcher
+447,Q92558480,Stefan Chmiela,,"'machine learning', 'artificial intelligence'",,artificial intelligence researcher
+448,Q93121823,Daniel J. Hulme,,,,artificial intelligence researcher
+449,Q102254370,Caglar Gulcehre,'Université de Montréal',,,artificial intelligence researcher
+450,Q102306194,Tibor Bosse,'Vrije Universiteit Amsterdam',,,artificial intelligence researcher
+451,Q102430016,M. Pawan Kumar,'Oxford Brookes University',,,artificial intelligence researcher
+452,Q104921990,Bruno Zamborlin,,,,artificial intelligence researcher
+453,Q105318165,Bridget Karlin,,,,artificial intelligence researcher
+454,Q100395312,Jérôme Pesenti,'University of Paris-Sud',,,artificial intelligence researcher
+455,Q102409485,Il-Chul Moon,'Carnegie Mellon University',,,artificial intelligence researcher
+456,Q102519065,David Lopez-Paz,,,,artificial intelligence researcher
+457,Q104742992,Stephen Roller,'University of Texas at Austin',,,artificial intelligence researcher
+458,Q103277748,Harm van Seijen,'University of Amsterdam',,,artificial intelligence researcher
+459,Q103277408,Jakob Foerster,'University of Oxford',,,artificial intelligence researcher
+460,Q65030493,Larry Harris,'Cornell University',,,artificial intelligence researcher
+461,Q64144986,Tang Xiao'ou,"'Massachusetts Institute of Technology', 'University of Rochester', 'University of Science and Technology of China'",,'IEEE Fellow',artificial intelligence researcher
+462,Q64536153,David Venuto,'McGill University',,,artificial intelligence researcher
+463,Q77086666,Peter Lucas,'Vrije Universiteit Amsterdam',,,artificial intelligence researcher
+464,Q73160909,Michael C. Mozer,"'University of California, San Diego'",,,artificial intelligence researcher
+465,Q64629330,David H. Hardtke,"'Duke University', 'Ohio State University'",,,artificial intelligence researcher
+466,Q80134647,Luc Julia,"'Pierre and Marie Curie University', 'Télécom Paris'",,'Knight of the Legion of Honour',artificial intelligence researcher
+467,Q71867035,Marco Ciaramella,"'Polytechnic University of Turin', 'Bocconi University'",,,artificial intelligence researcher
+468,Q67898093,Pearl Pu,'University of Pennsylvania','human–computer interaction',,artificial intelligence researcher
+469,Q79083553,Rachel Thomas,"'Duke University', 'Swarthmore College'",,,artificial intelligence researcher
+470,Q88960635,Rong Zhou,,"'machine learning', 'digital image processing', 'knowledge representation and reasoning'",,artificial intelligence researcher
+471,Q89431327,Klaus Obermayer,'Technical University of Munich',"'machine learning', 'artificial neural network', 'computational neuroscience'",,artificial intelligence researcher
+472,Q80556098,Gerald Tesauro,'Princeton University',,,artificial intelligence researcher
+473,Q91140387,Daniel Polani,,,,artificial intelligence researcher
+474,Q71458457,Pat Langley,"'Carnegie Mellon University', 'Texas Christian University'",,,artificial intelligence researcher
+475,Q65119914,Steve Guggenheimer,"'Stanford University', 'University of California, Davis'",,,artificial intelligence researcher
+476,Q67091030,Byron Boots,"'Carnegie Mellon University', 'Bowdoin College'","'machine learning', 'artificial intelligence', 'computer science', 'robotics'",,artificial intelligence researcher
+477,Q67256247,Matthew Botvinick,'Carnegie Mellon University',,,artificial intelligence researcher
+478,Q76448707,Lex Fridman,'Drexel University','computer vision',,artificial intelligence researcher
+479,Q65999557,Katherine A. Heller,'University College London',,,artificial intelligence researcher
+480,Q97572832,Volodymyr Mnih,'University of Toronto',,,artificial intelligence researcher
+481,Q97573123,Daan Wierstra,'Technical University of Munich',,,artificial intelligence researcher
+482,Q88671329,Jane X. Wang,'University of Michigan',,,artificial intelligence researcher
+483,Q96112451,Peter Jung,'Technical University of Berlin',,,artificial intelligence researcher
+484,Q72740096,Kristian Kersting,'University of Freiburg','machine learning',,artificial intelligence researcher
+485,Q92134110,Michael Gastegger,,,,artificial intelligence researcher
+486,Q101542203,Radityo Eko Prasojo,"'TU Dresden', 'University of Indonesia', 'Free University of Bozen-Bolzano'","'artificial intelligence', 'natural language processing', 'Semantic Web', 'deep learning', 'information extraction'",,artificial intelligence researcher
+487,Q102291392,Rómer Rosales,'Boston University',,,artificial intelligence researcher
+488,Q103364024,Aditya Rawal,'University of Texas at Austin',,,artificial intelligence researcher
+489,Q102847140,Christoph Feichtenhofer,'Graz University of Technology',,,artificial intelligence researcher
+490,Q75930430,Crispin Simon,,,'Commander of the Order of the British Empire',artificial intelligence researcher
+491,Q102943825,Ben Adlam,'Harvard University',,,artificial intelligence researcher
+492,Q103328274,Tilmann Rabl,'University of Passau',,,artificial intelligence researcher
+493,Q103328723,Evan Shelhamer,"'University of California, Berkeley'",,,artificial intelligence researcher
+494,Q104172861,Ksenia Konyushkova,'École polytechnique fédérale de Lausanne',,,artificial intelligence researcher
+495,Q104672235,Martin Vechev,"'University of Cambridge', 'Simon Fraser University'",,,artificial intelligence researcher
+496,Q69410236,Danilo Jimenez Rezende,'École polytechnique fédérale de Lausanne',,,artificial intelligence researcher
+497,Q89662566,Noam Brown,'Carnegie Mellon University',,,artificial intelligence researcher
+498,Q89082496,Antonio Criminisi,'University of Oxford',,,artificial intelligence researcher
+499,Q66497786,Janelle Shane,"'University of St Andrews', 'University of California, San Diego'",,,artificial intelligence researcher
+500,Q102314566,Jean-Pierre Seifert,"'Massachusetts Institute of Technology', 'Goethe University Frankfurt'","'cryptography', 'computer security'",,artificial intelligence researcher
+501,Q102382396,Annerieke Heuvelink,'Vrije Universiteit Amsterdam',,,artificial intelligence researcher
+502,Q103277760,Guangliang Li,'University of Amsterdam',,,artificial intelligence researcher
+503,Q103354396,Matthew D. Zeiler,'New York University',,,artificial intelligence researcher
+504,Q104126302,Matteo Hessel,,,,artificial intelligence researcher
+505,Q104126422,Salil Deena,'University of Manchester',,,artificial intelligence researcher
+506,Q86609250,Diana Borsa,"'Jacobs University Bremen', 'University College London'",,,artificial intelligence researcher
+507,Q69332468,Olaf Groth,'Middlebury College',,,artificial intelligence researcher
+508,Q88071877,Huziel E. Sauceda,,,,artificial intelligence researcher
+509,Q97527101,Titus Kuehne,,,,artificial intelligence researcher
+510,Q104061207,Alexander Matthews,'University of Cambridge',,,artificial intelligence researcher
+511,Q72101712,Daniel Povey,,,,artificial intelligence researcher
+512,Q81200310,Shakir Mohamed,'University of Cambridge',,,artificial intelligence researcher
+513,Q90227799,Ernest S. Davis,'Yale University',,,artificial intelligence researcher
+514,Q64415919,Ebrahim Mamdani,'Queen Mary University of London',,'IEEE Fellow',artificial intelligence researcher
+515,Q74278142,Gege Gatt,'University of Malta',,,artificial intelligence researcher
+516,Q76434485,Olga Russakovsky,'Stanford University',,,artificial intelligence researcher
+517,Q85227271,Shobeir Fakhraei,"'Wayne State University', 'University of Maryland'",,,artificial intelligence researcher
+518,Q103084600,Nirav Ajmeri,"'Gujarat University', 'North Carolina State University', 'Sardar Vallabhbhai Patel Institute of Technology'",,,artificial intelligence researcher
+519,Q103365026,Fereshteh Sadeghi,"'University of Central Florida', 'University of Washington', 'Amirkabir University of Technology'",,,artificial intelligence researcher
+520,Q97330617,John Levine,'University of Cambridge',,,artificial intelligence researcher
+521,Q98576152,André Barreto,,,,artificial intelligence researcher
