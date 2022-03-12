@@ -1,0 +1,2 @@
+﻿graph,nodeProjection,nodes,rels
+YahooMusic,"{""Artist"":{""properties"":{},""label"":Artist},""Album"":{""properties"":{},""label"":Album},""Genre"":{""properties"":{},""label"":Genre},""User"":{""properties"":{},""label"":User},""Track"":{""properties"":{},""label"":Track}}",316442,6311488
