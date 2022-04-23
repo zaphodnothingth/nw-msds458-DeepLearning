@@ -103,9 +103,17 @@ for i, row in df_wd.iterrows():
         
         time.sleep(random.uniform(0.3,2.2))
 
+               
+print(len(df_wd))
+print(df_wd.head())
+df_wd['occupation'] = 'artificial intelligence researcher'
+
+df_wd[['alma', 'field', 'award']] = df_wd[['alma', 'field', 'award']].applymap(lambda x: x.strip('[]'))
+df_wd.to_csv('researchers.csv')
 
 
-#### semantic scholar
+###### graveyard 
+# semantic scholar
 """
 ssAPIkey = config.SS_API_KEY # approved for 100 req/sec
 ssBASE = 'http://api.semanticscholar.org/graph/v1/author/'
@@ -118,10 +126,3 @@ headers = {'x-api-key': ssAPIkey}
 resp = requests.get(ssBASE + ssENDPOINTsearch, headers=headers)
 df_ss = pd.DataFrame(resp.json()['data'])    
 """
-               
-print(len(df_wd))
-print(df_wd.head())
-df_wd['occupation'] = 'artificial intelligence researcher'
-
-df_wd[['alma', 'field', 'award']] = df_wd[['alma', 'field', 'award']].applymap(lambda x: x.strip('[]'))
-df_wd.to_csv('researchers.csv')
