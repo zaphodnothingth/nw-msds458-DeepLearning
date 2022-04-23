@@ -9,6 +9,8 @@ import pandas as pd
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 
+# local
+import config
 
 #### wikidata sparql query
 url_wd = 'https://query.wikidata.org/bigdata/namespace/wdq/sparql'
@@ -105,7 +107,7 @@ for i, row in df_wd.iterrows():
 
 #### semantic scholar
 """
-ssAPIkey = 'qZWKkOKyzP5g9fgjyMmBt1MN2NTC6aT61UklAiyw' # approved for 100 req/sec
+ssAPIkey = config.SS_API_KEY # approved for 100 req/sec
 ssBASE = 'http://api.semanticscholar.org/graph/v1/author/'
 
 search_terms = 'Andrew Ng'
